@@ -30,5 +30,4 @@ call tsp_backtrack with name.txt and distance.txt as parameters
             append the one route to the list of routes
     
     call tsp_recursive
-
 ```
